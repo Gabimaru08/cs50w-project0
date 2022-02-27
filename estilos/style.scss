@@ -1,0 +1,21 @@
+$color-primario: #3936da;
+$color-secundario: #000;
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000;
+
+}
+// variables
+$black: #2509;
+
+h1{
+    background-color:$black;
+}
