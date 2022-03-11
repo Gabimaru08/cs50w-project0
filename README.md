@@ -2,6 +2,6 @@
 
 Web Programming with Python and JavaScript
 Inteligencia Artificial y su evolucion.
-123
+contenido de cada archivo:
 
 # cs50w-project0
